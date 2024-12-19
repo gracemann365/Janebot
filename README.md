@@ -1,6 +1,9 @@
 
 # Janebot
 
+![image](https://github.com/user-attachments/assets/f8cc08d8-c05a-4dc6-a6bb-17bbfc2fe375)
+
+
 Janebot represents a cutting-edge interactive chatbot system meticulously designed to deliver a profoundly engaging, human-like conversational experience. The platform integrates a robust Java-based backend server with a responsive and intuitive frontend interface, complemented by a finely tuned text-to-speech (TTS) system that mimics natural human speech with remarkable fidelity.
 
 ## Features
